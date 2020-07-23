@@ -1,3 +1,3 @@
-# Public
+# PVA Public Repo
 
-[Home](https://github.com/precisionvalve/Public/wiki)
+[Wiki Home Page](https://github.com/precisionvalve/Public/wiki)
